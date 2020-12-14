@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Samuel Jones (Sam for short) and I'm a full-stack software engineer working at [JustFulfil](https://github.com/justfulfil) in Manchester, UK. 
+My name is Sam Jones and I'm a full-stack software engineer working at [JustFulfil](https://github.com/justfulfil) in Manchester, UK. 
 
 - 🔭 I’m currently working on building a world-class product
 - 🌱 I’m currently learning Next.js and Tailwind CSS
