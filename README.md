@@ -2,7 +2,7 @@
 
 My name is Sam Jones and I'm a full-stack software developer working at [JustFulfil](https://github.com/justfulfil) in Manchester, UK. 
 
-- 🔭 I’m currently working on building a world-class product
+- 🔭 I’m currently working on building a world-class Saas product
 - 🌱 I’m currently learning React Table v7
 - ✨ My previous projects: [Imperium Functional Fitness](https://www.imperiumfunctionalfitness.co.uk)
 - 🤔 I’m looking for help with React Hooks
