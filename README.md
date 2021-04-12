@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sam Jones and I'm a full-stack software developer working at [JustFulfil](https://github.com/justfulfil) in Manchester, UK. 
+My name is Sam Jones and I'm a Full Stack Developer working at [JustFulfil](https://github.com/justfulfil) in Manchester, UK. 
 
 - 🔭 I’m currently working on building a world-class SaaS product
 - 🌱 I’m currently learning React Table v7
