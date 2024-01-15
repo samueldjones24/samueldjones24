@@ -2,7 +2,7 @@
 
 My name is Samuel Jones and I'm a Senior Frontend Developer at Victorian Plumbing (Manchester, UK). 
 
-- 🔭 I’m not currently working on any side projects 😱
+- 🔭 I’m currently building an API using Node.js, Express, MySQL + TypeORM
 - ✨ My previous projects:
   - [AI App Idea](https://aiappidea.com)
   - [Letter & Number Learning](https://letter-number-learning.netlify.app/)
