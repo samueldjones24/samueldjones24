@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Samuel Jones and I'm a Senior Frontend Developer at Victorian Plumbing (Manchester, UK). 
+My name is Samuel Jones and I'm a Frontend Software Engineer at Thermo Fisher Scientific. 
 
 - 🔭 I’m currently building nothing
 - ✨ My previous projects:
