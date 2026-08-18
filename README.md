@@ -2,7 +2,7 @@
 
 My name is Samuel Jones and I'm a Frontend Software Engineer at Thermo Fisher Scientific. 
 
-- 🔭 I’m currently building nothing
+- 🔭 I’m currently building ScreenScribble
 - ✨ My previous projects:
   - [Letter & Number Learning](https://letter-number-learning.netlify.app/)
   - [Code Anagrams](https://code-anagrams.netlify.app)
